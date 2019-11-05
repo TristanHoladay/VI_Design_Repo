@@ -1,1 +1,49 @@
-<mxfile host="www.draw.io" modified="2019-11-05T00:07:55.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="zr9akZBvhu-S9yUOUHIH" version="12.1.9" type="github" pages="1"><diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">1ZjPU6MwFMf/Gg57qAMJ1PZof6h7cNYdD87uLUIKGQNhQ5Dav35fQmhLwbHOUK09tOGbHySf916SVwfP0/WNJHlyJyLKHeRGawcvHIQmgQ/fWnitBR+PayGWLKolbyc8sA21omvVkkW0aDVUQnDF8rYYiiyjoWppREpRtZutBG+/NScx7QgPIeFd9ZFFKrGq57q7ilvK4kQ1C7YVTyR8jqUoM/s+B+GV+dTVKWnGsu2LhESi2pPw0sFzKYSqS+l6TrlG22Cr+12/Ubudt6SZOqZDePtrOf4T/b7bzOLJI938fVEvIzvKC+ElbZZhJqteG0BVwhR9yEmonyvwAQfPEpVyePKgSIq8NsuKrSm8amZHpFLR9ZtT9bYAwK+oSKmSr9DEdkBTy8z6VIO82hkIX1ot2bPNViTWKeLt0DswULBsPsAJv8/JuIImsHCBwjvUBoDkozYkb9ql5KGgSwmdCpJ/hpA8dBG0MCEcfDGm4CxjDk8O3MnvcadpT9BtxcFBjc/Rnw6D7vKix5/8Hk6Njw2OaXr+mGCz+nJMzZT2OK2EjOH41SsrikpI6H7dYQcUVBuQpAXbkCfTQPMkpRJFfbEx0clZnEE5BFhUgqBRMrhxXNmKlEWR7jzLBcuUWWcwc4IFKCvG+VxwAd0Wmch0o0JJ8UwPxLZBh7BYcGCxSU/4e332OlX0e0ecuTAM3BPp+z59kh3z4JaC3B4X79swT0bsiAP4vIj1XOw+l1j3LL6RlCqWxd9xH1iJTNkMCw21L/jt61PPJXP8qbvCpGMx7wc8z3bZGHJ/ppC0jaAwmos0J5lezz0LVSmpg8Zcm/FJtqw7/lfqPMwQHNU2vIIGXpCvDcemHkqx/kX6nXMmQw65K2SspcxMhktpZuAAG0hZExo+6+oqMTIXMdO/rKgXwPRcB5oQ1hO6bs6z+/3zDKZjuELqTrhWtDjIS795jED0D5OuHsSI33N19vvy1cnHowQed38ZmLq9v2Xw8j8=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-05T00:10:00.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="0YFa2bQyACJa4LYhtIRZ" version="12.2.0" type="github" pages="1">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="854" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="cHOE6YdQMzBg8WezZvtv-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="290" y="50" width="370" height="370" as="geometry"/>
+        </mxCell>
+        <mxCell id="cHOE6YdQMzBg8WezZvtv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="190" width="125" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cHOE6YdQMzBg8WezZvtv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="412.5" y="235" width="125" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cHOE6YdQMzBg8WezZvtv-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="380" y="140" width="190" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="cHOE6YdQMzBg8WezZvtv-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="197.5" width="140" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="cHOE6YdQMzBg8WezZvtv-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="242.5" width="140" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="cHOE6YdQMzBg8WezZvtv-10" value="forgot password?" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="280" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cHOE6YdQMzBg8WezZvtv-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="390" y="205" width="10" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="cHOE6YdQMzBg8WezZvtv-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="390" y="250" width="10" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="cHOE6YdQMzBg8WezZvtv-15" value="Greeting" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="445" y="90" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cHOE6YdQMzBg8WezZvtv-18" value="1) Background Image- -Company Picture&lt;br style=&quot;font-size: 15px;&quot;&gt;2) Circles turn green with checks when login is valid &lt;br style=&quot;font-size: 15px;&quot;&gt;3) Forgot Password? will Modal??&lt;br style=&quot;font-size: 15px;&quot;&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="245" y="440" width="470" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hq7I21dMV1J_K8QAm22u-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hq7I21dMV1J_K8QAm22u-2" value="Submit" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="300" width="50" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
